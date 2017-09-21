@@ -6,6 +6,7 @@
 
 打包：npm run build
 
+项目博客：[http://jspang.com/2017/05/22/vuedemo/](http://jspang.com/2017/05/22/vuedemo/)
 
 # jspang-pos
 
