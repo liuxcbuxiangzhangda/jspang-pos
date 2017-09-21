@@ -1,4 +1,4 @@
-搭建此项目：下载node——安装淘宝镜像源——全局安装vue-cli——用vue创建项目（vue init webpack 项目名称）
+搭建此项目：下载node——安装淘宝镜像源——全局安装vue-cli——用vue创建项目（vue init webpack 项目名称）——修改严格模式等
 
 检出后要运行需要：安装依赖（npm install）安装vuex（npm install vuex --save）
 
