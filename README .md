@@ -1,3 +1,12 @@
+搭建此项目：下载node——安装淘宝镜像源——全局安装vue-cli——用vue创建项目（vue init webpack 项目名称）
+
+检出后要运行需要：安装依赖（npm install）安装vuex（npm install vuex --save）
+
+运行：npm start 或者npm run dev
+
+打包：npm run build
+
+
 # jspang-pos
 
 > A Vue.js project
