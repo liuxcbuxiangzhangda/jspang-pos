@@ -29,6 +29,9 @@ ul{
   padding: 0;
   margin: 0;
 }
+li{
+  list-style: none;
+}
   .main{
     width: 95%;
     height: 100%;
