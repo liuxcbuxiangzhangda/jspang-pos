@@ -5,6 +5,7 @@ import App from './App'
 import router from './router'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-default/index.css'
+window.$=require('jquery')  //还可以import $ from 'jquery' 需要配置webpack
 
 Vue.use(ElementUI)
 

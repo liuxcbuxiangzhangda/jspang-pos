@@ -1,6 +1,13 @@
 搭建此项目：下载node——安装淘宝镜像源——全局安装vue-cli——用vue创建项目（vue init webpack 项目名称）——修改严格模式等
 
-检出后要运行需要：安装依赖（npm install）安装vuex（npm install vuex --save） 安装elemen（npminstall element-ui --save）安装axios(npm install axios --save)
+检出后要运行需要：
+安装依赖（npm install）
+安装vuex（npm install vuex --save） 
+安装elemen（npminstall element-ui --save）
+安装axios(npm install axios --save) 
+安装jquery(npm install jquery --save) 
+>webpack配置： [http://blog.csdn.net/mr_wuch/article/details/70239728](http://blog.csdn.net/mr_wuch/article/details/70239728)
+引用import $ from 'jquery'
 
 运行：npm start 或者npm run dev
 
